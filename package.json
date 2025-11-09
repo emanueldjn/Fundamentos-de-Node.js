@@ -1,0 +1,21 @@
+{
+  "name": "generador-de-n-meros-aleatorios",
+  "version": "1.0.0",
+  "description": "Curso Platzi - Curso de Fundamentos de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanueldjn/Generador-de-N-meros-Aleatorios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/emanueldjn/Generador-de-N-meros-Aleatorios/issues"
+  },
+  "homepage": "https://github.com/emanueldjn/Generador-de-N-meros-Aleatorios#readme"
+}
